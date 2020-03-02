@@ -8,4 +8,5 @@ import { Component } from '@angular/core';
 export class AppComponent {
   title = 'test-project';
   testen: string = 'HALLO';
+  buersten: number = 100;
 }
